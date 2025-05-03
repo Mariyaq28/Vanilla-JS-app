@@ -1,5 +1,6 @@
 🔢 Simple Calculator (Vanilla JavaScript)
-This project is a simple, fully functional calculator built using **Vanilla JavaScript**, **HTML**, and **CSS**. It is part of a broader assignment to implement the calculator using different technologies, with this version focusing on a clean and minimal design.
+This project is a simple, fully functional calculator built using **Vanilla JavaScript**, **HTML**, and **CSS**. 
+It is part of a broader assignment to implement the calculator using different technologies, with this version focusing on a clean and minimal design.
 
 📝 Features
 - Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
@@ -15,8 +16,11 @@ This project is a simple, fully functional calculator built using **Vanilla Java
 
   📁 File Structure
   /calculator-vanilla/
+  
 ├── index.html # Main HTML structure
+
 ├── styles.css # Styling for the calculator
+
 └── script.js # JavaScript logic for operations
 
 
