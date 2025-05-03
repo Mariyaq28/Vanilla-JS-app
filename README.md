@@ -40,7 +40,8 @@ This app allows basic arithmetic calculations and is designed with a minimalisti
 
 📸 Screenshot
 
-![Calculator Screenshot](VSproj.png) 
+![Calculator Screenshot](VS proj.png) 
+
 
 
 
