@@ -38,10 +38,8 @@ This app allows basic arithmetic calculations and is designed with a minimalisti
 - CSS3
 - JavaScript (Vanilla)
 
-📸 Screenshot
-
-![Calculator Screenshot](VSproj.png) 
-
+📄 License
+This project is licensed under the MIT License.
 
 
 
